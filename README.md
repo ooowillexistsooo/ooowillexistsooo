@@ -1,4 +1,10 @@
-## Hi there 👋
+## im will
+hi! im will. i like making dumb things and just weird stuff. im working on dscs, the decentralized simple chatroom system
+im learning java and python and know html css js and pug
+email me at will@searchbirds.com
+he/they
+
+get ur jax toy get a little laff boy
 
 <!--
 **ooowillexistsooo/ooowillexistsooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
