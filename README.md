@@ -4,7 +4,8 @@ im learning java and python and know html css js and pug
 email me at will@searchbirds.com
  - hack club member
  - he/they
- - ask me about flowery o.o
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ooowillexistsooo&theme=calm-pink&hide_border=true&timezone=PST)](https://git.io/streak-stats)
 
 <!--
 **ooowillexistsooo/ooowillexistsooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
